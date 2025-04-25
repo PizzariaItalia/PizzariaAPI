@@ -10,10 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.8",
+    "@types/cors": "^2.8.17",
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.2",
     "tsc-watch": "^6.2.1",
