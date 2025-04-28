@@ -1,6 +1,9 @@
 export const menu = {
     Entrada: [{
-
+        nome: "burrata gratinada & panuozzo",
+        img: "https://files.menudino.com/cardapios/39701/123.jpg",
+        des: "Burrata gratinada diretamente na mesa acompanhada de tomates sweet confit, pesto da casa",
+        valor: "75.00"
     }],
     Pizzas: [{
         nome: "Pizza de Mussarela",
@@ -19,18 +22,12 @@ export const menu = {
         img: "https://files.menudino.com/cardapios/39701/246.jpg",
         des: "Suco de Maçã Villa Piva. Sem adoçante ou conservantes. 300ml",
         valor: "14.00"
-    },
-    {
-
     }],
     Vinhos: [{
         nome:"Don Guerino",
         img: "https://files.menudino.com/cardapios/39701/242.jpg",
         des: "Uva: 100% Tannat",
         valor: "106.00"
-    },
-    {
-
     }],
     Sobremesas:[{
         nome:"Delizia Di Nutella",
@@ -38,5 +35,4 @@ export const menu = {
         des: "Massa artesanal de longa fermentação, nutella com amêndoas laminas tostadas",
         valor: "51.00"
     }]
-
 }
